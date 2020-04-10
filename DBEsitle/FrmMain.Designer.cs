@@ -767,7 +767,7 @@
             this.lblBaslik.Name = "lblBaslik";
             this.lblBaslik.Size = new System.Drawing.Size(1061, 22);
             this.lblBaslik.TabIndex = 12;
-            this.lblBaslik.Text = "SQL Server Db Eşitle v1.0";
+            this.lblBaslik.Text = "SQL Server Synchronizing Two Database v1.0";
             this.lblBaslik.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblBaslik.MouseDown += new System.Windows.Forms.MouseEventHandler(this.LblBaslik_MouseDown);
             this.lblBaslik.MouseMove += new System.Windows.Forms.MouseEventHandler(this.LblBaslik_MouseMove);
@@ -929,4 +929,3 @@
         private System.Windows.Forms.Button btnHakkinda;
     }
 }
-
