@@ -1,3 +1,3 @@
-# SQLServerDbEsitle
+# SQLServerSynchronizingTwoDatabase
 
-![Sql server db compare](https://github.com/dursunkatar/SQLServerDbEsitle/blob/master/screenshot.bmp)
+![SQL Server Synchronizing Two Database](https://github.com/dursunkatar/SQLServerDbEsitle/blob/master/db-synchronizing.jpg)
