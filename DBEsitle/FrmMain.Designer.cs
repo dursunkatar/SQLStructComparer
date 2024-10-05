@@ -125,9 +125,9 @@
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label13.Location = new System.Drawing.Point(373, 316);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(51, 16);
+            this.label13.Size = new System.Drawing.Size(43, 16);
             this.label13.TabIndex = 16;
-            this.label13.Text = "Viewlar";
+            this.label13.Text = "Views";
             // 
             // PanelView
             // 
@@ -195,9 +195,9 @@
             this.labehl17.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.labehl17.Location = new System.Drawing.Point(20, 316);
             this.labehl17.Name = "labehl17";
-            this.labehl17.Size = new System.Drawing.Size(175, 16);
+            this.labehl17.Size = new System.Drawing.Size(163, 16);
             this.labehl17.TabIndex = 14;
-            this.labehl17.Text = "Prosedürler ve Fonksiyonlar";
+            this.labehl17.Text = "Procedures and Functions";
             // 
             // panelPF
             // 
@@ -265,9 +265,9 @@
             this.abel13.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.abel13.Location = new System.Drawing.Point(374, 12);
             this.abel13.Name = "abel13";
-            this.abel13.Size = new System.Drawing.Size(56, 16);
+            this.abel13.Size = new System.Drawing.Size(59, 16);
             this.abel13.TabIndex = 12;
-            this.abel13.Text = "Kolonlar";
+            this.abel13.Text = "Columns";
             // 
             // label12
             // 
@@ -275,9 +275,9 @@
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label12.Location = new System.Drawing.Point(21, 12);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(58, 16);
+            this.label12.Size = new System.Drawing.Size(50, 16);
             this.label12.TabIndex = 10;
-            this.label12.Text = "Tablolar";
+            this.label12.Text = "Tables";
             // 
             // panelTablo
             // 
@@ -398,12 +398,12 @@
             // 
             // columnHeader2
             // 
-            this.columnHeader2.Text = "Table Adı";
+            this.columnHeader2.Text = "Table Name";
             this.columnHeader2.Width = 100;
             // 
             // columnHeader5
             // 
-            this.columnHeader5.Text = "Column Adı";
+            this.columnHeader5.Text = "Column Name";
             this.columnHeader5.Width = 100;
             // 
             // columnHeader6
@@ -436,7 +436,7 @@
             this.btnHakkinda.Padding = new System.Windows.Forms.Padding(20, 0, 20, 0);
             this.btnHakkinda.Size = new System.Drawing.Size(144, 38);
             this.btnHakkinda.TabIndex = 14;
-            this.btnHakkinda.Text = "Hakkında";
+            this.btnHakkinda.Text = "About";
             this.btnHakkinda.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnHakkinda.UseVisualStyleBackColor = true;
             this.btnHakkinda.Click += new System.EventHandler(this.btnHakkinda_Click);
@@ -453,7 +453,7 @@
             this.btnKarsilastir.Padding = new System.Windows.Forms.Padding(20, 0, 20, 0);
             this.btnKarsilastir.Size = new System.Drawing.Size(144, 38);
             this.btnKarsilastir.TabIndex = 13;
-            this.btnKarsilastir.Text = "Karşılaştır";
+            this.btnKarsilastir.Text = "Compare";
             this.btnKarsilastir.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnKarsilastir.UseVisualStyleBackColor = true;
             this.btnKarsilastir.Click += new System.EventHandler(this.btnKarsilastir_Click);
@@ -532,7 +532,7 @@
             this.btnKaynakDbBaglan.Name = "btnKaynakDbBaglan";
             this.btnKaynakDbBaglan.Size = new System.Drawing.Size(101, 36);
             this.btnKaynakDbBaglan.TabIndex = 9;
-            this.btnKaynakDbBaglan.Text = "Bağlan";
+            this.btnKaynakDbBaglan.Text = "Connect";
             this.btnKaynakDbBaglan.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnKaynakDbBaglan.UseVisualStyleBackColor = true;
             this.btnKaynakDbBaglan.Click += new System.EventHandler(this.btnKaynakDbBaglan_Click);
@@ -615,9 +615,9 @@
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label6.Location = new System.Drawing.Point(21, 290);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(155, 16);
+            this.label6.Size = new System.Drawing.Size(178, 16);
             this.label6.TabIndex = 5;
-            this.label6.Text = "Hedef Veritabanı Bilgileri";
+            this.label6.Text = "Target Database Information";
             // 
             // panel2
             // 
@@ -683,7 +683,7 @@
             this.btnHedefDbBaglan.Name = "btnHedefDbBaglan";
             this.btnHedefDbBaglan.Size = new System.Drawing.Size(101, 36);
             this.btnHedefDbBaglan.TabIndex = 9;
-            this.btnHedefDbBaglan.Text = "Bağlan";
+            this.btnHedefDbBaglan.Text = "Connect";
             this.btnHedefDbBaglan.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnHedefDbBaglan.UseVisualStyleBackColor = true;
             this.btnHedefDbBaglan.Click += new System.EventHandler(this.btnHedefDbBaglan_Click);
@@ -713,9 +713,9 @@
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label9.Location = new System.Drawing.Point(147, 122);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(86, 16);
+            this.label9.Size = new System.Drawing.Size(67, 16);
             this.label9.TabIndex = 5;
-            this.label9.Text = "Kullanıcı Şifre";
+            this.label9.Text = "Password";
             // 
             // txtHedefDbKullaniciSifre
             // 
@@ -731,9 +731,9 @@
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label10.Location = new System.Drawing.Point(3, 122);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(79, 16);
+            this.label10.Size = new System.Drawing.Size(70, 16);
             this.label10.TabIndex = 3;
-            this.label10.Text = "Kullanıcı Adı";
+            this.label10.Text = "Username";
             // 
             // label11
             // 
@@ -741,9 +741,9 @@
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label11.Location = new System.Drawing.Point(3, 15);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(60, 16);
+            this.label11.Size = new System.Drawing.Size(73, 16);
             this.label11.TabIndex = 2;
-            this.label11.Text = "İp Adresi";
+            this.label11.Text = "IP Address";
             // 
             // txtHedefDbKullaniciAdi
             // 
