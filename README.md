@@ -16,5 +16,11 @@ SQLStructComparer is a tool designed to compare and synchronize database structu
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/dursunkatar/SQLStructComparer.git
-   
+   ```
+2. Open the solution in Visual Studio and build the project.
+3. Run the application and enter the source and target database information.
+4. Click Connect for both databases.
+5. Select Compare to see the structural differences between the two databases.
+
+## Screenshots
 ![SQLStructComparer](https://github.com/dursunkatar/SQLServerSynchronizingTwoDatabase/blob/master/SQLStructComparer.png)
